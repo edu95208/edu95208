@@ -1,5 +1,8 @@
  <h1>Olá! Eu sou o <strong>Eduardo Aguiar</strong>👋 <h1/>
-
+  
+<p>Olá, sou graduado em engenharia de controle e automação, durante o curso tive experiencias com Python, PHP e C++, e acabei me apaixonando na área de programação, após concluir minha graduação decidi unir o conhecimento adiquirido e entrar no universo de desenvolvimento web.</p>
+ <p>Atualmente iniciei o curso da Kenzie Academy Brasil, adquiri conhecimento na área de front-end, tenho conhecimento nas seguintes ferramentas HTML, CSS, JavaSript, TypeScript, React e node.js. 
+</p>
 <!--
 - 🔭 Buscando uma oportunnidade na area de front-end
 - 🌱 Estudando Typescript 
