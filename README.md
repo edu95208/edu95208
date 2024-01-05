@@ -1,8 +1,8 @@
-### Olá! Eu sou o Eduardo Aguiar👋
+ <h1>Olá! Eu sou o <strong>Eduardo Aguiar</strong>👋 <h1/>
 
+<!--
 - 🔭 Buscando uma oportunnidade na area de front-end
 - 🌱 Estudando Typescript 
-<!--
 **edu95208/edu95208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
