@@ -1,8 +1,8 @@
- <h1>Olá! Eu sou o <strong>Eduardo Aguiar</strong>👋 <h1/>
-  
-<p>Olá, sou graduado em engenharia de controle e automação, durante o curso tive experiencias com Python, PHP e C++, e acabei me apaixonando na área de programação, após concluir minha graduação decidi unir o conhecimento adiquirido e entrar no universo de desenvolvimento web.</p>
- <p>Atualmente iniciei o curso da Kenzie Academy Brasil, adquiri conhecimento na área de front-end, tenho conhecimento nas seguintes ferramentas HTML, CSS, JavaSript, TypeScript, React e node.js. 
-</p>
+ Olá! Eu sou o Eduardo Aguiar👋 
+ 
+ Sou graduado em engenharia de controle e automação, durante o curso tive experiências com Python, PHP e C++, e acabei me apaixonando na área de programação, após concluir minha graduação decidi unir o conhecimento adiquirido e entrar no universo de desenvolvimento web.                                                                                                       
+Atualmente estou cursando Full stack na Kenzie Academy Brasil, até o momento adquiri conhecimento na área de front-end, tenho conhecimento nas seguintes ferramentas HTML, CSS, JavaSript, TypeScript, React e node.js. 
+
 <!--
 - 🔭 Buscando uma oportunnidade na area de front-end
 - 🌱 Estudando Typescript 
@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div>
+   <a href="https://github.com/edu95208">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edu95208&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edu95208&layout=compact&langs_count=6&theme=github_dark"/>
+</div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
