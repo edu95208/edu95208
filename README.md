@@ -1,7 +1,7 @@
  Olá! Eu sou o Eduardo Aguiar👋 
  
  Sou graduado em engenharia de controle e automação, durante o curso tive experiências com Python, PHP e C++, e acabei me apaixonando na área de programação, após concluir minha graduação decidi unir o conhecimento adiquirido e entrar no universo de desenvolvimento web.                                                                                                       
-Atualmente estou cursando Full stack na Kenzie Academy Brasil, até o momento adquiri conhecimento na área de front-end, tenho conhecimento nas seguintes ferramentas HTML, CSS, JavaSript, TypeScript, React e node.js. 
+Atualmente estou cursando Full stack na Kenzie Academy Brasil, até o momento adquiri conhecimento na área de front-end, tenho conhecimento nas seguintes tecnologias HTML, CSS, JavaSript, TypeScript, React e node.js. 
 
 <!--
 - 🔭 Buscando uma oportunnidade na area de front-end
