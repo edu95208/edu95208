@@ -5,7 +5,7 @@ Atualmente estou cursando Full stack na Kenzie Academy Brasil, até o momento ad
 
 <!--
 - 🔭 Buscando uma oportunnidade na area de front-end
-- 🌱 Estudando Typescript 
+- 🌱 Estudando Back end
 **edu95208/edu95208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
