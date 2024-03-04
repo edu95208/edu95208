@@ -1,9 +1,15 @@
- Olá! Eu sou o Eduardo Aguiar👋 
+👋 Olá! Sou Eduardo Aguiar, um desenvolvedor Full Stack apaixonado por criar soluções inovadoras.
+
+Com experiência abrangente tanto no frontend quanto no backend, estou constantemente explorando novas tecnologias e aprimorando minhas habilidades para desenvolver aplicativos web eficientes e elegantes. Graduado em Engenharia de Controle e Automação, trago uma sólida base técnica e uma abordagem analítica para o desenvolvimento de software. No meu arsenal de ferramentas, conto com expertise em tecnologias como JavaScript/TypeScript, HTML, CSS, React, Node.js, Express.js, SQL e NoSQL databases, entre outras, além de codificar, adoro colaborar em projetos de código aberto, compartilhando conhecimento e aprendendo com a comunidade de desenvolvedores ao redor do mundo.
+Se você está buscando um colaborador dedicado e apaixonado por tecnologia para o seu próximo projeto, ou apenas quer trocar ideias, fique à vontade para entrar em contato!
+
+Vamos criar algo incrível juntos! ✨
+<!-- Olá! Eu sou o Eduardo Aguiar👋 
  
  Sou graduado em engenharia de controle e automação, durante o curso tive experiências com Python, PHP e C++, e acabei me apaixonando na área de programação, após concluir minha graduação decidi unir o conhecimento adiquirido e entrar no universo de desenvolvimento web.                                                                                                       
 Atualmente estou cursando Full stack na Kenzie Academy Brasil, até o momento adquiri conhecimento na área de front-end, tenho conhecimento nas seguintes tecnologias HTML, CSS, JavaSript, TypeScript, React e node.js. 
 
-<!--
+
 - 🔭 Buscando uma oportunnidade na area de front-end
 - 🌱 Estudando Back end
 **edu95208/edu95208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
